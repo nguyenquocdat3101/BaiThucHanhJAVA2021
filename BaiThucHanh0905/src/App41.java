@@ -18,7 +18,6 @@ public class App41 {
         linkedList.add("Tháng 12");
         System.out.println("Nhap vao chi so cua phan tu can lay: ");
         int index = scanner.nextInt();
-
         if(( index < 0 )|| (index > (linkedList.size()-1))) {
             System.out.print("chi so can lay phải lớn hơn 0 và nhỏ hơn "+(linkedList.size()-1));
         } else {
@@ -26,9 +25,7 @@ public class App41 {
             System.out.println("Phan tu co chi so = "+ index +"trong linkedList la "+node);
         }
         String firstNode = linkedList.getFirst();
-
         String lastNode = linkedList.getLast();
-
         System.out.println("phan tu dau tien trong danh sach la: "+ firstNode +" Phan tu cuoi cung trong danh sach la: "+lastNode);
     }
 }
