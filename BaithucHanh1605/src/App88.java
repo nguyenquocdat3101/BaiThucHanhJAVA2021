@@ -1,13 +1,8 @@
-package baithuchanh1605;
-
 import java.util.HashMap;
 import java.util.Set;
 import java.util.Map;
 
-/**
- *
- * @author DELL
- */
+
 public class App88 {
     public static void main(String[] args) {
         HashMap<String, String> hashMapCity  = new HashMap<>();

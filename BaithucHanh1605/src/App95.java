@@ -1,12 +1,7 @@
-package baithuchanh1605;
-
 import java.util.LinkedHashMap;
 import java.util.Set;
 
-/**
- *
- * @author DELL
- */
+
 public class App95 {
     public static void show(LinkedHashMap<Integer, String> linkedHashMap){
         Set<Integer> keySet = linkedHashMap.keySet();

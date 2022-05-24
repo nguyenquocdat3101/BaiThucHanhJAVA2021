@@ -1,10 +1,6 @@
-package baithuchanh1605;
 import java.util.Set;
 import java.util.LinkedHashSet;
-/**
- *
- * @author DELL
- */
+
 public class App60 {
     public static void main(String[] args) {
          Set<String> linkedHashSet = new LinkedHashSet<>();

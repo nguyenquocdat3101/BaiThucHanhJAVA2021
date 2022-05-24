@@ -1,10 +1,6 @@
-package baithuchanh1605;
 import java.util.HashMap;
 import java.util.Set;
-/**
- *
- * @author DELL
- */
+
 public class App86 {
     public static void main(String[]args){
         HashMap<String, String> hashMap= new HashMap<>();

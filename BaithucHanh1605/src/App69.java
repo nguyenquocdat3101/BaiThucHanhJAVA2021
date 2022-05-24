@@ -1,12 +1,7 @@
-package baithuchanh1605;
-
 import java.util.TreeSet;
 import java.util.Scanner;
 
-/**
- *
- * @author DELL
- */
+
 public class App69 {
 
     public static void main(String[] args) {

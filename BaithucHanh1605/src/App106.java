@@ -1,13 +1,8 @@
-package baithuchanh1605;
-
 import java.util.Map;
 import java.util.TreeMap;
 import java.util.Set;
 
-/**
- *
- * @author DELL
- */
+
 public class App106 {
     public static void main(String[] args) {
         TreeMap<Integer, Character> treeMap = new TreeMap<>();

@@ -1,12 +1,7 @@
-package baithuchanh1605;
-
 import java.util.HashMap;
 import java.util.TreeMap;
 
-/**
- *
- * @author DELL
- */
+
 public class App78 {
     public static void main(String[] args) {
         HashMap<Integer, Float> hashMap = new HashMap<>();

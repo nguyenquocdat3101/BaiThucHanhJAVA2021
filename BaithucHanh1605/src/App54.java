@@ -1,12 +1,7 @@
-package baithuchanh1605;
-
 import java.util.HashSet;
 import java.util.Scanner;
 
-/**
- *
- * @author DELL
- */
+
 public class App54 {
     public static void main(String[] args) {
         String name;

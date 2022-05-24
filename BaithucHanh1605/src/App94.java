@@ -1,12 +1,7 @@
-package baithuchanh1605;
-
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-/**
- *
- * @author DELL
- */
+
 public class App94 {
     public static void main(String[] args) {
         LinkedHashMap<Integer, String> hm =new LinkedHashMap<Integer,String>();
